@@ -1,11 +1,14 @@
 # Diabetes
-Introduction
+# Introduction
+
 Diabetes is a chronic disease that affects millions of people worldwide. Early detection is crucial to prevent complications and manage the disease effectively. In this project, we will be building a machine learning model that can predict whether a person has diabetes based on several features such as age, gender, hypertension, heart disease, smoking history, BMI, HbA1c level, and blood glucose level.
 
-Dataset
+# Dataset
+
 We will be using a dataset that contains information about patients, including their medical history and lab results. By analyzing this data, we can identify patterns and relationships between the features and diabetes risk and build a predictive model to classify individuals as either diabetic or non-diabetic.
 
-Goals
+# Goals
+
 Our ultimate goal is to create a machine learning model that accurately predicts diabetes status and can be used by healthcare professionals to identify at-risk individuals and provide early interventions. In this notebook, we will:
 
 1) Perform exploratory data analysis (EDA) to gain insights into the data and identify any data quality issues.
